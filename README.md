@@ -50,6 +50,7 @@ Evaluate product review scores and review counts to identify popular products, h
 •	Low Review Score: Below 2.5
 Products with strong customer ratings can be considered for advertising, promotions, and cross-selling opportunities.
 
+
 💡 Business Recommendations
 
 1. Improve Product Quality and Customer Experience
@@ -78,6 +79,7 @@ Products with strong customer ratings can be considered for advertising, promoti
 •	Prepare inventory in advance for peak-demand periods.
 •	Increase advertising through suitable marketing channels.
 •	Use gift vouchers and limited-time offers to encourage purchases.
+
 
 📈 #Expected Outcome
 
