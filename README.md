@@ -20,6 +20,7 @@ This project analyzes one year of e-commerce sales data to understand customer b
 •	Microsoft Power BI
 •	Data Cleaning and Transformation
 •	Data Visualization and Business Intelligence
+
 •	📂# Sample Data Files
 
 The datasets and Power BI dashboard are included to help users understand the data preparation process, explore the sales analysis, and review the dashboard results.
@@ -32,13 +33,13 @@ The datasets were cleaned and transformed using Power Query to prepare them for 
 
 🔍 Key Analysis
 
-1. Top-Performing Product Categories
+1. Top-Performing Product Categories :
 Analyze annual sales amounts and product sales volumes to identify high-performing products and categories. Understand which products contribute most to revenue and where sales can be improved.
-2. Pricing Impact on Sales & Reviews
+2. Pricing Impact on Sales & Reviews :
 Analyze product prices alongside sales performance and customer feedback. Identify opportunities for competitive pricing, affordable products, and attractive combo offers.
-3. Seasonal Sales Trends
+3. Seasonal Sales Trends :
 Analyze monthly sales to identify high-performing periods, including October, February, March, and July, as indicated by the project analysis.
-4. Customer Satisfaction
+4. Customer Satisfaction :
 Evaluate product review scores and review counts to identify popular products, highly rated categories, and products requiring improvement.
 
 📊 Customer Review Analysis
@@ -77,10 +78,13 @@ Products with strong customer ratings can be considered for advertising, promoti
 •	Prepare inventory in advance for peak-demand periods.
 •	Increase advertising through suitable marketing channels.
 •	Use gift vouchers and limited-time offers to encourage purchases.
+
 📈 #Expected Outcome
+
 This project supports data-driven decisions to improve product performance, optimize pricing, increase customer satisfaction, plan effective promotional campaigns, and identify opportunities for sustainable e-commerce sales growth.
 
 📌# Data & Analysis Considerations
+
 •	The analysis is based on observed patterns in the E-commerce Sales dataset.
 •	Missing values, duplicate records, and data types were checked during data preprocessing.
 •	Sales, profit, quantity, and order trends were analyzed to understand business performance.
@@ -88,7 +92,9 @@ This project supports data-driven decisions to improve product performance, opti
 •	Sales performance may vary across product categories, regions, customer segments, and time periods.
 •	The analysis identifies relationships and trends but does not establish causation.
 •	Business recommendations are based on the available dataset and should be validated with further analysis before making major business decisions.
+
 🚀 #Future Enhancements
+
 1.	Perform advanced statistical analysis to identify key sales drivers.
 2.	Analyze customer purchasing behavior and segment customers.
 3.	Identify the best-selling and low-performing products.
@@ -96,6 +102,7 @@ This project supports data-driven decisions to improve product performance, opti
 5.	Build interactive dashboards using Power BI for better reporting.
 6.	Develop sales forecasting models to predict future revenue.
 7.	Recommend product combos, gift vouchers, weekend offers, and special discounts to encourage customer purchases.
+   
 📁 Repository Structure
 Ecommerce-Sales/
 │
@@ -112,7 +119,10 @@ Ecommerce-Sales/
     ├── 📊 top_selling_products.png
     ├── 📊 regional_sales.png
     └── 📊 profit_analysis.png
+    
 👤 Author
+
    Honey Stanly
+   
 Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
