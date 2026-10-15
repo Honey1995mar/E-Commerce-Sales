@@ -17,11 +17,12 @@ This project analyzes one year of e-commerce sales data to understand customer b
 
 🛠️# Tools & Technologies
 
-•	Microsoft Excel
-•	Power Query
-•	Microsoft Power BI
-•	Data Cleaning and Transformation
-•	Data Visualization and Business Intelligence
+Tool / Technology	Purpose
+Microsoft Excel	Initial data inspection, preliminary calculations, and baseline reporting
+Power Query	Automated Data Cleaning, ETL (Extract, Transform, Load), and data shaping
+Microsoft Power BI	Building relational data models, DAX measures, and interactive BI dashboards
+Data Cleaning & Transformation	Handling missing values, standardizing mixed line endings, and normalizing categories
+Data Visualization & BI	Designing dynamic visual dashboards, KPI cards, trend charts, and business reports
 
 •	📂# Sample Data Files
 
