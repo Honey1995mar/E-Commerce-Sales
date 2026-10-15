@@ -1,7 +1,9 @@
 # E-Commerce-Sales
 🛒 Analysis of E-Commerce Sales and Customer Behavior
+
 This repository presents an end-to-end data analysis of annual e-commerce performance (Total Sales: Rs 2,97,125.56). The objective is to identify key sales drivers, evaluate product category performance, analyze the relationship between pricing and customer sentiment, and uncover seasonal trends to drive strategic marketing and pricing decisions.
 Project Year: 2025
+
 📌 #Project Overview
 This project analyzes one year of e-commerce sales data to understand customer behavior, product performance, pricing strategies, seasonal sales trends, and customer satisfaction. Using Microsoft Excel, Power Query, and Power BI, the project aims to identify business opportunities and recommend strategies to improve sales, revenue, and customer experience.
 
@@ -24,6 +26,7 @@ This project analyzes one year of e-commerce sales data to understand customer b
 •	📂# Sample Data Files
 
 The datasets and Power BI dashboard are included to help users understand the data preparation process, explore the sales analysis, and review the dashboard results.
+
 •	List of Orders.csv – Contains order dates, customer names, states, and cities.
 •	Order Details.csv – Contains order IDs, product details, sales amounts, quantities, and profit.
 •	Sales target.csv – Contains monthly sales targets by category.
@@ -31,7 +34,7 @@ The datasets and Power BI dashboard are included to help users understand the da
 •	ecommerce_sales_dashboard.png – Dashboard preview image.
 The datasets were cleaned and transformed using Power Query to prepare them for analysis and visualization.
 
-🔍 Key Analysis
+🔍# Key Analysis
 
 1. Top-Performing Product Categories :
 Analyze annual sales amounts and product sales volumes to identify high-performing products and categories. Understand which products contribute most to revenue and where sales can be improved.
@@ -42,7 +45,7 @@ Analyze monthly sales to identify high-performing periods, including October, Fe
 4. Customer Satisfaction :
 Evaluate product review scores and review counts to identify popular products, highly rated categories, and products requiring improvement.
 
-📊 Customer Review Analysis
+📊 #Customer Review Analysis
 
 •	Total Review Score: 527K
 •	Average Review Count: 3.03
@@ -51,7 +54,7 @@ Evaluate product review scores and review counts to identify popular products, h
 Products with strong customer ratings can be considered for advertising, promotions, and cross-selling opportunities.
 
 
-💡 Business Recommendations
+💡# Business Recommendations
 
 1. Improve Product Quality and Customer Experience
 •	Offer good-quality products at competitive prices.
