@@ -198,15 +198,13 @@ The Power BI dashboard presents sales performance through interactive visuals, K
 
 ### 🏠 Home Page
 
-![Home Dashboard](visualizations/Home.png)
+![Home Dashboard](Visualizations/Home.png)
 
 ### 📋 Details Page
 
-![Details Dashboard](visualizations/Details.png)
+![Details Dashboard](Visualizations/Details.png)
 
 ### ⚙️ Action Page
-
-![Action Dashboard](visualizations/Action.png)
 
 ## 📁 Project Files & Structure
 
