@@ -208,32 +208,34 @@ The Power BI dashboard presents sales performance through interactive visuals, K
 
 ![Action Dashboard](visualizations/Action.png)
 
-## 📁 Project Files
+## 📁 Project Files & Structure
 
-- `List of Orders.csv` – Order and customer location information.
-- `Order Details.csv` – Product, quantity, sales, and profit information.
-- `Sales target.csv` – Monthly sales targets by category.
-- `Ecommerce_Sales_Dashboard.pbix` – Interactive Power BI dashboard, if included in the repository.
-- `Ecommerce_Sales_Analysis.ipynb` – Jupyter Notebook, if included in the repository.
-- `README.md` – Project overview, analysis, and recommendations.
-- `visualizations/` – Dashboard screenshots and analysis charts.
+* **`E-Commerce-Sales/`**
+  * **`Visualizations/`** — Folder containing dashboard screenshots and visual exports
+    * `Home.png` — Overview / Home dashboard screen
+    * `Details.png` — Detailed sales analysis view
+    * `Action.png` — Actionable business recommendations view
+  * **`E-Commerce Sales.csv`** — Raw dataset containing transaction and sales records[cite: 1]
+  * **`E-Commerce Sales.docx`** — Comprehensive project documentation and report[cite: 1]
+  * **`Ecommerce_Sales_Dashboard.pbix`** — Interactive Power BI dashboard source file[cite: 1]
+  * **`Insight and recommend.pdf`** — Executive report summarizing key business insights and strategies[cite: 1]
+  * **`README.md`** — Main project documentation file[cite: 1]
 
 ## 📂 Repository Structure
 
 
-📁 Ecommerce-Sales/
+E-Commerce-Sales/
 │
-├── 📄 List of Orders.csv
-├── 📄 Order Details.csv
-├── 📄 Sales target.csv
-├── 📊 Ecommerce_Sales_Dashboard.pbix
-├── 📓 Ecommerce_Sales_Analysis.ipynb
-├── 📄 README.md
+├── Visualizations/              
+│   ├── Home.png                  
+│   ├── Details.png               
+│   └── Action.png                
 │
-└── 📁 visualizations/
-    ├── 🖼️ Home.png
-    ├── 🖼️ Details.png
-    └── 🖼️ Action.png
+├── E-Commerce Sales.csv         
+├── E-Commerce Sales.docx         
+├── Ecommerce_Sales_Dashboard.pbix 
+├── Insight and recommend.pdf    
+└── README.md                    
 
 
 
