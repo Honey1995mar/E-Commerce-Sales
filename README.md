@@ -268,6 +268,6 @@ E-Commerce-Sales/
 
 Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
-**Skills:** Excel | Power Query | Power BI | DAX | Python | SQL | Data Visualization
+**Skills:** Excel | Power Query | Power BI | DAX |  Data Visualization
 
 
