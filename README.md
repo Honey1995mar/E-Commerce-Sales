@@ -220,27 +220,21 @@ The Power BI dashboard presents sales performance through interactive visuals, K
 
 ## 📂 Repository Structure
 
-```text
-Ecommerce-Sales/
+
+📁 Ecommerce-Sales/
 │
-├── List of Orders.csv
-├── Order Details.csv
-├── Sales target.csv
-├── Ecommerce_Sales_Dashboard.pbix
-├── Ecommerce_Sales_Analysis.ipynb
-├── README.md
+├── 📄 List of Orders.csv
+├── 📄 Order Details.csv
+├── 📄 Sales target.csv
+├── 📊 Ecommerce_Sales_Dashboard.pbix
+├── 📓 Ecommerce_Sales_Analysis.ipynb
+├── 📄 README.md
 │
-└── visualizations/
-    ├── Home.png
-    ├── Details.png
-    ├── Action.png
-    ├── sales_overview.png
-    ├── monthly_sales_trend.png
-    ├── sales_by_category.png
-    ├── top_selling_products.png
-    ├── regional_sales.png
-    └── profit_analysis.png
-```
+└── 📁 visualizations/
+    ├── 🖼️ Home.png
+    ├── 🖼️ Details.png
+    └── 🖼️ Action.png
+
 
 
 
