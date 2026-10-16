@@ -205,6 +205,7 @@ The Power BI dashboard presents sales performance through interactive visuals, K
 ![Details Dashboard](Visualizations/Details.png)
 
 ### ⚙️ Action Page
+![Action Dashboard](Visualizations/Action.png)
 
 ## 📁 Project Files & Structure
 
